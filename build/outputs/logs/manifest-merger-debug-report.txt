@@ -19,8 +19,8 @@ ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/Andr
 		ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:7:5-19:19
-MERGED from [com.android.support:cardview-v7:25.3.1] /Users/woongbook/.android/build-cache/9d7f3b2323c2b4b0d8ee6e3a8054d2ce890c9566/output/AndroidManifest.xml:26:5-20
 MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] /Users/woongbook/AndroidStudioProjects/woongmember/ahbottomnavigation/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/woongbook/.android/build-cache/9d7f3b2323c2b4b0d8ee6e3a8054d2ce890c9566/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:25.3.1] /Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/a2147aa05b46fe9ddaaefd4045550ffc70c239d7/output/AndroidManifest.xml:26:5-20
@@ -42,7 +42,7 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/woongbook/.androi
 		ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:9:9-43
 	android:theme
 		ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:12:9-40
-activity#com.aurelhubert.ahbottomnavigation.demo.DemoActivity
+activity#com.aurelhubert.ahbottomnavigation.demo.MainActivity
 ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:13:9-18:20
 	android:name
 		ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:13:19-47
@@ -58,8 +58,8 @@ ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/Andr
 		ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:cardview-v7:25.3.1] /Users/woongbook/.android/build-cache/9d7f3b2323c2b4b0d8ee6e3a8054d2ce890c9566/output/AndroidManifest.xml:20:5-43
 MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] /Users/woongbook/AndroidStudioProjects/woongmember/ahbottomnavigation/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/woongbook/.android/build-cache/9d7f3b2323c2b4b0d8ee6e3a8054d2ce890c9566/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:25.3.1] /Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/a2147aa05b46fe9ddaaefd4045550ffc70c239d7/output/AndroidManifest.xml:20:5-44

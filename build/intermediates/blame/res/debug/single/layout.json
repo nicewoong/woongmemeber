@@ -232,6 +232,10 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/activity_chat.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_rounge.xml",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_rounge.xml"
     },

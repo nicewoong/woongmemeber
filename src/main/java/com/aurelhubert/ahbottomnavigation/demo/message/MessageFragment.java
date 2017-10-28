@@ -2,6 +2,7 @@ package com.aurelhubert.ahbottomnavigation.demo.message;
 
 import android.content.Context;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -10,6 +11,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -65,6 +67,16 @@ public class MessageFragment extends Fragment {
         slideAndDragListView.setMenu(createMenu());
         slideAndDragListView.setAdapter(adapter); // 생성한 ArrayAdapter<User> 를 이용해서 리스트뷰에 표시하기 위해 어뎁터를 지정한다
         addMenuItemClickListener(slideAndDragListView); // 리스트 아이템에 슬라이드 메뉴를 추가한다
+
+        // 리스트 아이템이 클릭되었을 때 호출되는 리스너 -> 새로운 채팅 Acitvity 를 열어주자
+        slideAndDragListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent=new Intent(getActivity(), ChatActivity.class);
+                intent.putExtra("name",String.valueOf( ((TextView)view.findViewById(R.id.name)).getText()));
+                startActivity(intent);
+            }
+        });
     }
 
 
@@ -183,6 +195,8 @@ public class MessageFragment extends Fragment {
             // Return the completed view to render on screen
             return convertView;
         }
+
+
     }
 
 

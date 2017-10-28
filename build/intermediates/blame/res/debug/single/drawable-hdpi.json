@@ -8,6 +8,10 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_content_add.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_icon_back.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_icon_back.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_maps_place.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_maps_place.png"
     },

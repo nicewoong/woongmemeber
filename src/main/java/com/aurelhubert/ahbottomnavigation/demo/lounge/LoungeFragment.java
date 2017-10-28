@@ -62,6 +62,8 @@ public class LoungeFragment extends Fragment {
 		layoutManager = new LinearLayoutManager(getActivity());
 		recyclerView.setLayoutManager(layoutManager);
 
+
+		// 샘플 데이터 생성
 		ArrayList<String> itemsData = new ArrayList<>();
 		for (int i = 0; i < 50; i++) {
 			itemsData.add("Fragment " + getArguments().getInt("index", -1) + " / Item " + i);

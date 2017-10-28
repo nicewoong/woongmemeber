@@ -9,8 +9,10 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigation;
@@ -27,7 +29,6 @@ import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
 
 import java.util.ArrayList;
 
-import static com.aurelhubert.ahbottomnavigation.R.styleable.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -43,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
 	private AHBottomNavigationViewPager viewPager;
 	private AHBottomNavigation bottomNavigation;
 	private FloatingActionButton floatingActionButton;
+
+	private Drawer drawer;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -106,8 +109,9 @@ public class MainActivity extends AppCompatActivity {
 
 		// Actionbar 에다가 아이콘 넣기
 		getSupportActionBar().setDisplayShowHomeEnabled(true);
-		getSupportActionBar().setIcon(R.drawable.ic_menu_50);
-
+		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+		getSupportActionBar().setHomeButtonEnabled(true);
+		getSupportActionBar().setHomeAsUpIndicator(R.drawable.ic_menu_50);
 
 		// Navigation Drawer (슬라이드 메뉴) 를 추가해주자 (라이브러리 이용)
 		addNavigationDrawer();
@@ -117,7 +121,28 @@ public class MainActivity extends AppCompatActivity {
 
 
 	/**
+	 * 액션바에 있는 옵션 버튼이 눌렸을 때 작동하는 리스너 이다
+	 * @param item
+	 * @return
+     */
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+
+		int itemId = item.getItemId();
+		switch (itemId) {
+			case android.R.id.home: // 액션바에 있는 메뉴버튼 눌렸을 때 ! (홈버튼을 메뉴 버튼으로 지정해놨음)
+				drawer.openDrawer();
+				return true;
+			default:
+				return super.onOptionsItemSelected(item);
+
+		}
+
+	}
+
+	/**
 	 * navigation drawer 를 생성한다
+	 * 메뉴의 내용은 샘플 데이터로 채운다
 	 */
 	public void addNavigationDrawer() {
 		//if you want to update the items at a later time it is recommended to keep it in a variable
@@ -125,7 +150,7 @@ public class MainActivity extends AppCompatActivity {
 		SecondaryDrawerItem item2 = new SecondaryDrawerItem().withIdentifier(2).withName("item2");
 
 		//create the drawer and remember the `Drawer` result object
-		Drawer drawerResult = new DrawerBuilder()
+		drawer = new DrawerBuilder()
 				.withActivity(this)
 				.withTranslucentStatusBar(false)
 				.withActionBarDrawerToggle(false)

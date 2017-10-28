@@ -32,4 +32,8 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:25.3.1'
     compile 'com.yydcdut.sdlv:sdlv:0.7.0'
     testCompile 'junit:junit:4.12'
+
+//    MaterialStyledDialogs library
+//    see : https://github.com/javiersantos/MaterialStyledDialogs
+    compile 'com.github.javiersantos:MaterialStyledDialogs:2.1'
 }

@@ -31,12 +31,12 @@ public class MainListFragment extends Fragment {
     /**
      * Create a new instance of the fragment
      */
-    public static LoungeFragment newInstance(int index) {
+    public static MainListFragment newInstance() {
 
         // 여기서 index 가 0,1,2,3,4 까지에 따라서 Fragment 설정해주면 되겠다.
-        LoungeFragment fragment = new LoungeFragment(); // Fragment 를 새로 생성해서 반환해주는구나
+        MainListFragment fragment = new MainListFragment(); // Fragment 를 새로 생성해서 반환해주는구나
         Bundle b = new Bundle();
-        b.putInt("index", index);
+        b.putInt("index", 0); // 첫 번째 탭에 위치할 프래그먼트
         fragment.setArguments(b); // Fragment 에 index 설정하고 반환해준다
         return fragment;
     }
@@ -49,7 +49,7 @@ public class MainListFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         // 나머지 1,2,3,4 페이지
-        View view = inflater.inflate(R.layout.fragment_lounge, container, false);
+        View view = inflater.inflate(R.layout.fragment_main_list, container, false);
         initDemoList(view);
         return view;
 
@@ -75,12 +75,16 @@ public class MainListFragment extends Fragment {
             itemsData.add("Fragment " + getArguments().getInt("index", -1) + " / Item " + i);
         }
 
-        MainListRecyclerAdapter adapter = new MainListRecyclerAdapter(itemsData);
+        MainListRecyclerAdapter adapter = new MainListRecyclerAdapter(makeSampleBusinessCard());
         recyclerView.setAdapter(adapter);
 
     }
 
 
+    /**
+     * 명함 리스트에 보여줄 Sample 데이터를 생성해서 반환한다
+     * @return
+     */
     private ArrayList<BusinessCardProfile> makeSampleBusinessCard () {
 
         ArrayList<BusinessCardProfile> arrayOfUsers = new ArrayList<BusinessCardProfile>();

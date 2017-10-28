@@ -4,6 +4,10 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/img_person_sample.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/business_card_2.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/business_card_2.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_content_add.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_content_add.png"
     },
@@ -20,6 +24,14 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_maps_local_attraction.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/business_card_3.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/business_card_3.png"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/business_card_1.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/business_card_1.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/favourite_50.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/favourite_50.png"
     },
@@ -34,6 +46,10 @@
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_delete_50.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_delete_50.png"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/business_card_4.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/business_card_4.png"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_maps_local_restaurant.png",

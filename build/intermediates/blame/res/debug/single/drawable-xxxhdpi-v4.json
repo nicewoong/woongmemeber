@@ -56,6 +56,10 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/md_nav_back.png",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/drawable-xxxhdpi-v4/md_nav_back.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },

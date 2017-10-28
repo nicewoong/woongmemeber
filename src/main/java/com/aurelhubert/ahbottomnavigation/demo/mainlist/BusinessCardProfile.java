@@ -12,9 +12,10 @@ public class BusinessCardProfile {
     public String company;
     public String image;
 
-
-    public  BusinessCardProfile(String name, String role, String company, String image) {
-
+    public BusinessCardProfile(String name, String role, String company, String image) {
+        this.name = name;
+        this.role = role;
+        this.company = company;
+        this.image = image;
     }
-
 }

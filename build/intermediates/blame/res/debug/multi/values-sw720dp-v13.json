@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

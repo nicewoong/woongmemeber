@@ -6,5 +6,9 @@
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/drawable-anydpi-v21/md_nav_back.xml"
     }
 ]

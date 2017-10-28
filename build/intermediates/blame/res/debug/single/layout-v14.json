@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

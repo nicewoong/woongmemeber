@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 28 20:59:10 KST 2017
+#Sat Oct 28 21:12:56 KST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/resources-debug.ap_/res/drawable/md_item_selected_dark.xml
 14.set=ANDROID_RESOURCE

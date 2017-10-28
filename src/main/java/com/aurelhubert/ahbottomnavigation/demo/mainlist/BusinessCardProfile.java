@@ -11,11 +11,11 @@ public class BusinessCardProfile {
     public String role;
     public String company;
     public String image;
-
-    public BusinessCardProfile(String name, String role, String company, String image) {
+    public int imageDrawableID;
+    public BusinessCardProfile(String name, String role, String company, int imageDrawableID) {
         this.name = name;
         this.role = role;
         this.company = company;
-        this.image = image;
+        this.imageDrawableID = imageDrawableID;
     }
 }

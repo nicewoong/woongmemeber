@@ -88,13 +88,15 @@ public class MainListFragment extends Fragment {
     private ArrayList<BusinessCardProfile> makeSampleBusinessCard () {
 
         ArrayList<BusinessCardProfile> arrayOfUsers = new ArrayList<BusinessCardProfile>();
-        arrayOfUsers.add(new BusinessCardProfile("한웅제", "학생 ", "(경북대학교 컴퓨터학부)", "business_card_1") );
-        arrayOfUsers.add(new BusinessCardProfile("김말숙", "대리 ", "(한국감정원 정보전산실/ 정보개발)", "business_card_2"));
-        arrayOfUsers.add(new BusinessCardProfile("김정태", "대리", "(신용보증기금 기획실)", "business_card_3"));
-        arrayOfUsers.add(new BusinessCardProfile("신상보", "대표 ", "(동복 해녀 회국수)", "business_card_4"));
-        arrayOfUsers.add(new BusinessCardProfile("정도현", "사회복지사 ", "(대구장애인종합복지관)", "business_card_1"));
-        arrayOfUsers.add(new BusinessCardProfile("James", "Associate Director ", "(Charles W.Davidson Corp.)", "business_card_2"));
-        arrayOfUsers.add(new BusinessCardProfile("Amy", "Senior Data Engineer ","(NETFLIX data Engineering Center)", "business_card_3"));
+        arrayOfUsers.add(new BusinessCardProfile("한웅제", "학생 ", "(경북대학교 컴퓨터학부)", R.drawable.business_card_1) );
+        arrayOfUsers.add(new BusinessCardProfile("김말숙", "대리 ", "(한국감정원 정보전산실/ 정보개발)", R.drawable.business_card_3));
+        arrayOfUsers.add(new BusinessCardProfile("김정태", "대리", "(신용보증기금 기획실)", R.drawable.business_card_2));
+        arrayOfUsers.add(new BusinessCardProfile("신상보", "대표 ", "(동복 해녀 회국수)", R.drawable.business_card_4));
+        arrayOfUsers.add(new BusinessCardProfile("정도현", "사회복지사 ", "(대구장애인종합복지관)", R.drawable.business_card_1));
+        arrayOfUsers.add(new BusinessCardProfile("James", "Associate Director ",
+                "(Charles W.Davidson Corp.)", R.drawable.business_card_2));
+        arrayOfUsers.add(new BusinessCardProfile("Amy", "Senior Data Engineer ",
+                "(NETFLIX data Engineering Center)", R.drawable.business_card_3));
 
 
         return arrayOfUsers;

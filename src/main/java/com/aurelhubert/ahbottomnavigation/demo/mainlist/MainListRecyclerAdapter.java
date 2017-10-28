@@ -23,6 +23,7 @@ import java.util.ArrayList;
 public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecyclerAdapter.ViewHolder> {
 
 	private ArrayList<BusinessCardProfile> businessCardProfiles = new ArrayList<BusinessCardProfile>();
+	BusinessCardProfile currentCard ;
 
 	public static class ViewHolder extends RecyclerView.ViewHolder {
 		public TextView nameTextView;
@@ -31,9 +32,9 @@ public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecycl
 		public ImageView businessCardImageView;
 
 
+
         /**
 		 * 뷰 홀더에서 아이템 내의 뷰들을 인스턴스화 시켜주고
-		 * 클릭리스너도 달아주면 된다
 		 * @param v
          */
 		public ViewHolder(final View v) {
@@ -42,20 +43,6 @@ public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecycl
 			roleTextView = (TextView) v.findViewById(R.id.role);
 			companyTextView = (TextView) v.findViewById(R.id.company);
 			businessCardImageView = (ImageView) v.findViewById(R.id.business_card_image);
-
-			v.setOnClickListener(new View.OnClickListener() {
-				@Override
-				public void onClick(View view) {
-
-					// 명함 리스트에서 아이템 클릭하면 다이얼로그를 형성해준다
-					new MaterialStyledDialog.Builder(v.getContext())
-							.setTitle("Awesome!")
-							.setDescription("What can we improve? Your feedback is always welcome.")
-							.setHeaderDrawable(R.drawable.business_card_3)
-							.withDarkerOverlay(true)
-							.show();
-				}
-			});
 
 		}
 	}
@@ -74,21 +61,27 @@ public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecycl
 
 
 	// 여기서 데이터를 셋 해줍시다..
+	// 그리고 여기서 아이템 순서에 있는 데이터가 바인더 되니까 이곳에서 온클릭리스너를 구현해주면 되겠다
 	@Override
 	public void onBindViewHolder(ViewHolder holder, int position) {
+		currentCard = businessCardProfiles.get(position);
 		holder.nameTextView.setText(businessCardProfiles.get(position).name); //이름 지정
 		holder.roleTextView.setText(businessCardProfiles.get(position).role); // 직책 지정
 		holder.companyTextView.setText(businessCardProfiles.get(position).company); // 회사 이름 지정
-
-		String path = Environment.getExternalStorageDirectory()+ "/drawable/"+ businessCardProfiles.get(position).image +".png";
-
-		File imgFile = new File(path);
-		if(imgFile.exists())
-		{
-			Bitmap myBitmap = BitmapFactory.decodeFile(imgFile.getAbsolutePath());
-			holder.businessCardImageView.setImageBitmap(myBitmap);
-		}
-
+		holder.businessCardImageView.setImageResource(businessCardProfiles.get(position).imageDrawableID);
+		holder.itemView.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				// 명함 리스트에서 아이템 클릭하면 다이얼로그를 형성해준다
+				new MaterialStyledDialog.Builder(view.getContext())
+						.setTitle(currentCard.name)
+						.setDescription(currentCard.role + "\n" + currentCard.company )
+						.setHeaderDrawable(currentCard.imageDrawableID)
+						.withDarkerOverlay(true) // 배경화면 오버레이
+						.withIconAnimation(true) // 애니메이션 추가
+						.show();
+			}
+		});
 
 	}
 

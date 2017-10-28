@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/img_person_sample.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/img_person_sample.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_content_add.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_content_add.png"
     },

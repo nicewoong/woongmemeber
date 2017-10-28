@@ -57,7 +57,7 @@ public class LoungeFragment extends Fragment {
 	private void initDemoList(View view) {
 
 		fragmentContainer = (FrameLayout) view.findViewById(R.id.fragment_container);
-		recyclerView = (RecyclerView) view.findViewById(R.id.fragment_demo_recycler_view);
+		recyclerView = (RecyclerView) view.findViewById(R.id.fragment_lounge_recycler_view);
 		recyclerView.setHasFixedSize(true);
 		layoutManager = new LinearLayoutManager(getActivity());
 		recyclerView.setLayoutManager(layoutManager);

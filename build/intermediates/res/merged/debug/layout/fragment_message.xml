@@ -6,6 +6,7 @@
 
 
     <com.yydcdut.sdlv.SlideAndDragListView
+        android:id="@+id/slide_and_drag_list_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
     </com.yydcdut.sdlv.SlideAndDragListView>

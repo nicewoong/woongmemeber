@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.view.ViewGroup;
 
 import com.aurelhubert.ahbottomnavigation.demo.group.GroupFragment;
-import com.aurelhubert.ahbottomnavigation.demo.group.MessageFragment;
+import com.aurelhubert.ahbottomnavigation.demo.message.MessageFragment;
 import com.aurelhubert.ahbottomnavigation.demo.lounge.LoungeFragment;
 
 import java.util.ArrayList;
@@ -43,15 +43,16 @@ public class MainViewPagerAdapter extends FragmentPagerAdapter {
 	@Override
 	public void setPrimaryItem(ViewGroup container, int position, Object object) {
 		if (getCurrentFragment() != object) {
-			if(position==1) {
-				currentFragment = ((GroupFragment) object);
-
-			} else if(position==2){
-				currentFragment = ((MessageFragment) object);
-
-			}else {
-				currentFragment = ((LoungeFragment) object);
-			}
+//			if(position==1) {
+//				currentFragment = ((GroupFragment) object);
+//
+//			} else if(position==2){
+//				currentFragment = ((MessageFragment) object);
+//
+//			}else {
+//				currentFragment = ((LoungeFragment) object);
+//			}
+			currentFragment =  (Fragment) object;
 
 		}
 		super.setPrimaryItem(container, position, object);

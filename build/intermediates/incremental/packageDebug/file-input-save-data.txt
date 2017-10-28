@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 28 18:05:47 KST 2017
+#Sat Oct 28 18:10:10 KST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/resources-debug.ap_/res/layout/fragment_lounge.xml
 14.set=ANDROID_RESOURCE

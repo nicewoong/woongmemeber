@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.aurelhubert.ahbottomnavigation.demo.R;
+import com.github.javiersantos.materialstyleddialogs.MaterialStyledDialog;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -29,12 +30,32 @@ public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecycl
 		public TextView companyTextView;
 		public ImageView businessCardImageView;
 
-		public ViewHolder(View v) {
+
+        /**
+		 * 뷰 홀더에서 아이템 내의 뷰들을 인스턴스화 시켜주고
+		 * 클릭리스너도 달아주면 된다
+		 * @param v
+         */
+		public ViewHolder(final View v) {
 			super(v);
 			nameTextView = (TextView) v.findViewById(R.id.name);
 			roleTextView = (TextView) v.findViewById(R.id.role);
 			companyTextView = (TextView) v.findViewById(R.id.company);
 			businessCardImageView = (ImageView) v.findViewById(R.id.business_card_image);
+
+			v.setOnClickListener(new View.OnClickListener() {
+				@Override
+				public void onClick(View view) {
+
+					// 명함 리스트에서 아이템 클릭하면 다이얼로그를 형성해준다
+					new MaterialStyledDialog.Builder(v.getContext())
+							.setTitle("Awesome!")
+							.setDescription("What can we improve? Your feedback is always welcome.")
+							.setHeaderDrawable(R.drawable.business_card_3)
+							.withDarkerOverlay(true)
+							.show();
+				}
+			});
 
 		}
 	}

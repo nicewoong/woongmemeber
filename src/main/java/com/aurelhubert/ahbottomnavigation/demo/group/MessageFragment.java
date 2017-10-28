@@ -1,21 +1,20 @@
-package com.aurelhubert.ahbottomnavigation.demo;
+package com.aurelhubert.ahbottomnavigation.demo.group;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
-import java.util.ArrayList;
+import com.aurelhubert.ahbottomnavigation.demo.R;
 
 /**
- *
+ * 세 번째 탭인 메시지 탭에 대한 프래그먼트
  */
-public class GroupFragment extends Fragment {
+public class MessageFragment extends Fragment {
 
     private FrameLayout fragmentContainer;
     private RecyclerView recyclerView;
@@ -24,12 +23,12 @@ public class GroupFragment extends Fragment {
     /**
      * Create a new instance of the fragment
      */
-    public static GroupFragment newInstance() {
+    public static MessageFragment newInstance() {
 
         // 여기서 index 가 0,1,2,3,4 까지에 따라서 Fragment 설정해주면 되겠다.
-        GroupFragment fragment = new GroupFragment(); // Fragment 를 새로 생성해서 반환해주는구나
+        MessageFragment fragment = new MessageFragment(); // Fragment 를 새로 생성해서 반환해주는구나
         Bundle b = new Bundle();
-        b.putInt("index", 1); // 1 번째 index of 탭에 들어갈 프래그먼트
+        b.putInt("index", 2); // 2 번째 index of 탭에 들어갈 프래그먼트
         fragment.setArguments(b); // Fragment 에 index 설정하고 반환해준다
         return fragment;
     }
@@ -41,8 +40,8 @@ public class GroupFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        // 나머지 1,2,3,4 페이지
-        View view = inflater.inflate(R.layout.fragment_group, container, false);
+
+        View view = inflater.inflate(R.layout.fragment_message, container, false);
         initDemoList(view);
         return view;
 

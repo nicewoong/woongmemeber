@@ -72,6 +72,10 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_message.xml",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_message.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_bar_up_container.xml"
     },

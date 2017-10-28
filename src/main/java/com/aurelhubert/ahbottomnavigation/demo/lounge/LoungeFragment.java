@@ -1,4 +1,4 @@
-package com.aurelhubert.ahbottomnavigation.demo;
+package com.aurelhubert.ahbottomnavigation.demo.lounge;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,6 +9,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+
+import com.aurelhubert.ahbottomnavigation.demo.R;
 
 import java.util.ArrayList;
 

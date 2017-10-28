@@ -1,10 +1,12 @@
-package com.aurelhubert.ahbottomnavigation.demo;
+package com.aurelhubert.ahbottomnavigation.demo.lounge;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.aurelhubert.ahbottomnavigation.demo.R;
 
 import java.util.ArrayList;
 

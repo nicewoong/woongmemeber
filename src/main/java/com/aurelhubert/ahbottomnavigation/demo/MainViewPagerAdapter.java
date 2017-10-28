@@ -5,6 +5,10 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.view.ViewGroup;
 
+import com.aurelhubert.ahbottomnavigation.demo.group.GroupFragment;
+import com.aurelhubert.ahbottomnavigation.demo.group.MessageFragment;
+import com.aurelhubert.ahbottomnavigation.demo.lounge.LoungeFragment;
+
 import java.util.ArrayList;
 
 /**
@@ -21,7 +25,7 @@ public class MainViewPagerAdapter extends FragmentPagerAdapter {
 		fragments.clear();
 		fragments.add(LoungeFragment.newInstance(0));
 		fragments.add(GroupFragment.newInstance()); // 1번 index 탭에 들어갈 프래그먼트 (Group 프래그먼트)
-		fragments.add(LoungeFragment.newInstance(2));
+		fragments.add(MessageFragment.newInstance()); // 2번 index 탭에 들어갈 프래그먼트  (message 프래그먼트)
 		fragments.add(LoungeFragment.newInstance(3));
 		fragments.add(LoungeFragment.newInstance(4));
 	}
@@ -41,6 +45,10 @@ public class MainViewPagerAdapter extends FragmentPagerAdapter {
 		if (getCurrentFragment() != object) {
 			if(position==1) {
 				currentFragment = ((GroupFragment) object);
+
+			} else if(position==2){
+				currentFragment = ((MessageFragment) object);
+
 			}else {
 				currentFragment = ((LoungeFragment) object);
 			}

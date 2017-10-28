@@ -2,12 +2,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.aurelhubert.ahbottomnavigation.demo.group.GroupFragment">
+    tools:context="com.aurelhubert.ahbottomnavigation.demo.message.MessageFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <com.yydcdut.sdlv.SlideAndDragListView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="fragment_group 입니다" />
+        android:layout_height="match_parent">
+    </com.yydcdut.sdlv.SlideAndDragListView>
+
+
+
 
 </FrameLayout>

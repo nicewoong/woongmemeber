@@ -29,9 +29,10 @@ MERGED from [com.android.support:transition:25.3.1] /Users/woongbook/.android/bu
 MERGED from [com.android.support:support-v4:25.3.1] /Users/woongbook/.android/build-cache/f7ad7dc943636c61447382de05924a8fcf0d9d8c/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/woongbook/.android/build-cache/cd5f07b92ddcc8fc09afcb726ee589a240483475/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/woongbook/.android/build-cache/6bd8e8054f209f565d30297711444332a6a18b3d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/woongbook/.android/build-cache/85a209d1709f0607e70d74d05bd5a8aa24e6fd7b/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/woongbook/.android/build-cache/b17bf1c2d06d000e70b8f32578a036b820e2c01d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/woongbook/.android/build-cache/85a209d1709f0607e70d74d05bd5a8aa24e6fd7b/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/woongbook/.android/build-cache/6dc8873cbf480b969bf4bf677b2b8b274408a4cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.yydcdut.sdlv:sdlv:0.7.0] /Users/woongbook/.android/build-cache/89eb130c960e480a5a84e21367b08a543c314697/output/AndroidManifest.xml:12:5-13:19
 	android:label
 		ADDED from /Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -64,14 +65,15 @@ MERGED from [com.android.support:design:25.3.1] /Users/woongbook/.android/build-
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/a2147aa05b46fe9ddaaefd4045550ffc70c239d7/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/e3816d9cdc44bc5cb89feebd002a998daf6597d8/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/woongbook/.android/build-cache/b962be3c24519f860902795bccb6245987332a45/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.3.1] /Users/woongbook/.android/build-cache/c192d158a3d4e58e3c1f3b754af42918ba461176/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:25.3.1] /Users/woongbook/.android/build-cache/f7ad7dc943636c61447382de05924a8fcf0d9d8c/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/woongbook/.android/build-cache/cd5f07b92ddcc8fc09afcb726ee589a240483475/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/woongbook/.android/build-cache/6bd8e8054f209f565d30297711444332a6a18b3d/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/woongbook/.android/build-cache/85a209d1709f0607e70d74d05bd5a8aa24e6fd7b/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/woongbook/.android/build-cache/b17bf1c2d06d000e70b8f32578a036b820e2c01d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/woongbook/.android/build-cache/b962be3c24519f860902795bccb6245987332a45/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/woongbook/.android/build-cache/85a209d1709f0607e70d74d05bd5a8aa24e6fd7b/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] /Users/woongbook/.android/build-cache/6dc8873cbf480b969bf4bf677b2b8b274408a4cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.yydcdut.sdlv:sdlv:0.7.0] /Users/woongbook/.android/build-cache/89eb130c960e480a5a84e21367b08a543c314697/output/AndroidManifest.xml:8:5-10:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] /Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -86,13 +88,13 @@ MERGED from [com.android.support:design:25.3.1] /Users/woongbook/.android/build-
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/a2147aa05b46fe9ddaaefd4045550ffc70c239d7/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/e3816d9cdc44bc5cb89feebd002a998daf6597d8/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/woongbook/.android/build-cache/b962be3c24519f860902795bccb6245987332a45/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:transition:25.3.1] /Users/woongbook/.android/build-cache/c192d158a3d4e58e3c1f3b754af42918ba461176/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/woongbook/.android/build-cache/f7ad7dc943636c61447382de05924a8fcf0d9d8c/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/woongbook/.android/build-cache/cd5f07b92ddcc8fc09afcb726ee589a240483475/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/woongbook/.android/build-cache/6bd8e8054f209f565d30297711444332a6a18b3d/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/woongbook/.android/build-cache/85a209d1709f0607e70d74d05bd5a8aa24e6fd7b/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/woongbook/.android/build-cache/b17bf1c2d06d000e70b8f32578a036b820e2c01d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/woongbook/.android/build-cache/b962be3c24519f860902795bccb6245987332a45/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/woongbook/.android/build-cache/85a209d1709f0607e70d74d05bd5a8aa24e6fd7b/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /Users/woongbook/.android/build-cache/6dc8873cbf480b969bf4bf677b2b8b274408a4cf/output/AndroidManifest.xml:25:5-27:34
 	android:value
 		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/woongbook/.android/build-cache/9d7f3b2323c2b4b0d8ee6e3a8054d2ce890c9566/output/AndroidManifest.xml:24:9-31

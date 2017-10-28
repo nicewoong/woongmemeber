@@ -124,6 +124,10 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_main_business_list.xml",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_main_business_list.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_alert_dialog_title_material.xml"
     },

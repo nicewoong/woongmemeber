@@ -57,21 +57,23 @@ public class LoungeFragment extends Fragment {
 	private void initDemoList(View view) {
 
 		fragmentContainer = (FrameLayout) view.findViewById(R.id.fragment_container);
-		recyclerView = (RecyclerView) view.findViewById(R.id.fragment_lounge_recycler_view);
-		recyclerView.setHasFixedSize(true);
-		layoutManager = new LinearLayoutManager(getActivity());
-		recyclerView.setLayoutManager(layoutManager);
+	recyclerView = (RecyclerView) view.findViewById(R.id.fragment_lounge_recycler_view);
+	recyclerView.setHasFixedSize(true);
+	layoutManager = new LinearLayoutManager(getActivity());
+	recyclerView.setLayoutManager(layoutManager);
 
 
-		// 샘플 데이터 생성
-		ArrayList<String> itemsData = new ArrayList<>();
-		for (int i = 0; i < 50; i++) {
-			itemsData.add("Fragment " + getArguments().getInt("index", -1) + " / Item " + i);
-		}
-
-		LoungeRecyclerAdapter adapter = new LoungeRecyclerAdapter(itemsData);
-		recyclerView.setAdapter(adapter);
+	// 샘플 데이터 생성
+	ArrayList<String> itemsData = new ArrayList<>();
+	for (int i = 0; i < 50; i++) {
+		itemsData.add("Fragment " + getArguments().getInt("index", -1) + " / Item " + i);
 	}
+
+	LoungeRecyclerAdapter adapter = new LoungeRecyclerAdapter(itemsData);
+	recyclerView.setAdapter(adapter);
+
+	}
+
 
 	/**
 	 * Refresh

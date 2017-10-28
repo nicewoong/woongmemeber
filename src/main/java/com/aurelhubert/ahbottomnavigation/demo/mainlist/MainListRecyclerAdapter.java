@@ -1,4 +1,4 @@
-package com.aurelhubert.ahbottomnavigation.demo.group;
+package com.aurelhubert.ahbottomnavigation.demo.mainlist;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 /**
  *
  */
-public class GroupRecyclerAdapter extends RecyclerView.Adapter<GroupRecyclerAdapter.ViewHolder> {
+public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecyclerAdapter.ViewHolder> {
 
 	private ArrayList<String> mDataset = new ArrayList<>();
 
@@ -25,13 +25,13 @@ public class GroupRecyclerAdapter extends RecyclerView.Adapter<GroupRecyclerAdap
 		}
 	}
 
-	public GroupRecyclerAdapter(ArrayList<String> dataset) {
+	public MainListRecyclerAdapter(ArrayList<String> dataset) {
 		mDataset.clear();
 		mDataset.addAll(dataset);
 	}
 
 	@Override
-	public GroupRecyclerAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+	public MainListRecyclerAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 		View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.layout_item_lounge, parent, false);
 		ViewHolder vh = new ViewHolder(v);
 		return vh;

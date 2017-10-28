@@ -1,5 +1,6 @@
 package com.aurelhubert.ahbottomnavigation.demo.mainlist;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Environment;
@@ -15,6 +16,7 @@ import android.widget.TextView;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.aurelhubert.ahbottomnavigation.demo.R;
+import com.aurelhubert.ahbottomnavigation.demo.message.ChatActivity;
 import com.github.javiersantos.materialstyleddialogs.MaterialStyledDialog;
 import com.github.javiersantos.materialstyleddialogs.enums.Duration;
 
@@ -95,7 +97,7 @@ public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecycl
 
 		holder.itemView.setOnClickListener(new View.OnClickListener() {
 			@Override
-			public void onClick(View view) {
+			public void onClick(final View view) {
 				// 명함 리스트에서 아이템 클릭하면 다이얼로그를 형성해준다
 				new MaterialStyledDialog.Builder(view.getContext())
 						.setTitle(currentCard.name)
@@ -115,7 +117,10 @@ public class MainListRecyclerAdapter extends RecyclerView.Adapter<MainListRecycl
 						.onNeutral( new MaterialDialog.SingleButtonCallback() {
 							@Override
 							public void onClick(@NonNull MaterialDialog dialog, @NonNull DialogAction which) {
-
+								// 채팅 UI실행 !
+								Intent intent=new Intent(view.getContext(), ChatActivity.class);
+								intent.putExtra("name",String.valueOf( ((TextView)view.findViewById(R.id.name)).getText()));
+								view.getContext().startActivity(intent);
 							}
 						})
 						.setNegativeText("이 명함 전달")

@@ -12,6 +12,10 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_right.9.png",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/drawable/material_drawer_shadow_right.9.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
         "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/drawable/md_selector_dark.xml"
     },
@@ -28,8 +32,16 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_left.9.png",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/drawable/material_drawer_shadow_left.9.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_bottom.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/drawable/material_drawer_shadow_bottom.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
@@ -52,16 +64,16 @@
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
@@ -116,6 +128,10 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/material_drawer_circle_mask.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/drawable/material_drawer_circle_mask.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/abc_text_cursor_material.xml"
     },
@@ -156,8 +172,16 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/notification_tile_bg.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/material_drawer_badge.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/drawable/material_drawer_badge.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_top.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/drawable/material_drawer_shadow_top.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable/item_background.xml",

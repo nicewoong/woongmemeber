@@ -368,8 +368,46 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2048,
+                    "endColumn": 56,
+                    "endOffset": 2100
+                },
+                "from": {
+                    "file": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2105,
+                    "endColumn": 54,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 54,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2160,
                     "endColumn": 84,
-                    "endOffset": 2128
+                    "endOffset": 2240
                 },
                 "from": {
                     "file": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/values-pt/values-pt.xml",
@@ -384,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2133,
+                    "startOffset": 2245,
                     "endColumn": 100,
-                    "endOffset": 2229
+                    "endOffset": 2341
                 },
                 "from": {
                     "file": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/values-pt/values-pt.xml",

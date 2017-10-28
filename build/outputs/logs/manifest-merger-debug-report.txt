@@ -82,6 +82,10 @@ MERGED from [com.android.support:support-core-utils:25.3.1] /Users/woongbook/.an
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/a2147aa05b46fe9ddaaefd4045550ffc70c239d7/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/woongbook/.android/build-cache/e3816d9cdc44bc5cb89feebd002a998daf6597d8/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] /Users/woongbook/.android/build-cache/6dc8873cbf480b969bf4bf677b2b8b274408a4cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.mikepenz:materialdrawer:5.9.5] /Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.0.3] /Users/woongbook/.android/build-cache/df2ba0675232414d5fee449a2f4d3c2f56bf4d3f/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.9.1] /Users/woongbook/.android/build-cache/deedc5cd3918d02ef00c13ad98e13ea66532bf2b/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.6.3] /Users/woongbook/.android/build-cache/1e5a2c49a1f088d57147fcbb80c4c19111ad2b4c/output/AndroidManifest.xml:8:5-10:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] /Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion

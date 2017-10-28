@@ -1,39 +1,27 @@
 [
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_listitem_singlechoice.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/materialize.xml",
+        "source": "/Users/woongbook/.android/build-cache/df2ba0675232414d5fee449a2f4d3c2f56bf4d3f/output/res/layout/materialize.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_group.xml",
-        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_group.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_action_tombstone.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_section.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_section.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_input.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_popup_menu_header_item_layout.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -44,36 +32,28 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/ahbottomnavigation/build/intermediates/bundles/default/res/layout/bottom_navigation_small_item.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_basic_check.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_basic_check.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_screen_simple.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_slider.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_slider.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/layout_item_message.xml",
-        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/layout_item_message.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
         "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_progress_indeterminate.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_list.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_container.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_container.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
@@ -84,20 +64,8 @@
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_list_check.xml",
         "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_list_check.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_message.xml",
@@ -120,56 +88,28 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_demo_settings.xml",
-        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_demo_settings.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_custom.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_listitem.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_listitem.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_header.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_header.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_stub_titleframe.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_expandable_badge.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_expandable_badge.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
@@ -180,8 +120,8 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_main_list.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_text_input_password_icon.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_switch.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_switch.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_lounge.xml",
@@ -192,32 +132,24 @@
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_media.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_basic.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_expandable.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_expandable.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/layout_item_lounge.xml",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/layout_item_lounge.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_mini_profile.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_mini_profile.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/bottom_navigation_item.xml",
@@ -228,24 +160,12 @@
         "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_stub_actionbuttons.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_action.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_item_separator.xml"
-    },
-    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
-        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_listitem_multichoice.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -260,16 +180,16 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/layout_item_mainlist.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_fits_not.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_fits_not.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_tab_text.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_switch.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_secondary_switch.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
@@ -280,20 +200,12 @@
         "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_progress.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_divider.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_divider.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_snackbar.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -316,6 +228,182 @@
         "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_navigation_item_header.xml"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_group.xml",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_group.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_mini.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_mini.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_profile.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_profile.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_toggle.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_toggle.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_basic_check.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/layout_item_message.xml",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/layout_item_message.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/fragment_demo_settings.xml",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/fragment_demo_settings.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_compact_header.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_compact_header.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_profile_setting.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_profile_setting.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/woongbook/.android/build-cache/fbca36d7924e2c2a0e4041e07e91a503c558d7fb/output/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_recycler_view.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_toggle.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_secondary_toggle.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_primary.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_primary.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/activity_home.xml",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/layout/activity_home.xml"
     },
@@ -324,12 +412,12 @@
         "source": "/Users/woongbook/.android/build-cache/11f895813dc19d8e9ffbe49b6c66f9310972d768/output/res/layout/style_dialog_header_title.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary.xml",
+        "source": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/layout/material_drawer_item_secondary.xml"
     },
     {
-        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_screen_content_include.xml"
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/woongbook/.android/build-cache/43893b791df0c09e95bd9ed78156e4ed3af11cf4/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",

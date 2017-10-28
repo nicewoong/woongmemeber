@@ -330,8 +330,46 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1212,
+                    "endColumn": 63,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "/Users/woongbook/.android/build-cache/4bb7fffb5bb832fd9c7ef06b38e2bfa42e504db2/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endColumn": 54,
+                    "endOffset": 1326
+                },
+                "from": {
+                    "file": "/Users/woongbook/.android/build-cache/df2ba0675232414d5fee449a2f4d3c2f56bf4d3f/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1331,
                     "endColumn": 62,
-                    "endOffset": 1270
+                    "endOffset": 1389
                 },
                 "from": {
                     "file": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -346,12 +384,12 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1275,
-                    "endLine": 23,
+                    "startOffset": 1394,
+                    "endLine": 25,
                     "endColumn": 12,
-                    "endOffset": 1452
+                    "endOffset": 1571
                 },
                 "from": {
                     "file": "/Users/woongbook/.android/build-cache/6700f7e31f11fe7c189817d638bd7e807d303d63/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",

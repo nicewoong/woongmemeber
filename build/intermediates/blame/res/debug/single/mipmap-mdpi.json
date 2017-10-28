@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/mipmap-mdpi/woonmember_app_icon.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/mipmap-mdpi/woonmember_app_icon.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

@@ -8,6 +8,10 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/business_card_2.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/woonmember_app_icon.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/woonmember_app_icon.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_content_add.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-hdpi/ic_content_add.png"
     },

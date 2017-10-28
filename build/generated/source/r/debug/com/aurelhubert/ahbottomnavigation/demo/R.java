@@ -3782,13 +3782,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f020091;
-        public static final int avd_hide_password_2=0x7f020092;
-        public static final int avd_hide_password_3=0x7f020093;
+        public static final int avd_hide_password_1=0x7f020092;
+        public static final int avd_hide_password_2=0x7f020093;
+        public static final int avd_hide_password_3=0x7f020094;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f020094;
-        public static final int avd_show_password_2=0x7f020095;
-        public static final int avd_show_password_3=0x7f020096;
+        public static final int avd_show_password_1=0x7f020095;
+        public static final int avd_show_password_2=0x7f020096;
+        public static final int avd_show_password_3=0x7f020097;
         public static final int bottom_navigation_background=0x7f020055;
         public static final int business_card_1=0x7f020056;
         public static final int business_card_2=0x7f020057;
@@ -3844,11 +3844,12 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020089;
         public static final int notification_bg_normal_pressed=0x7f02008a;
         public static final int notification_icon_background=0x7f02008b;
-        public static final int notification_template_icon_bg=0x7f02008f;
-        public static final int notification_template_icon_low_bg=0x7f020090;
+        public static final int notification_template_icon_bg=0x7f020090;
+        public static final int notification_template_icon_low_bg=0x7f020091;
         public static final int notification_tile_bg=0x7f02008c;
         public static final int notify_panel_notification_icon_bg=0x7f02008d;
         public static final int top_lined_editext=0x7f02008e;
+        public static final int woonmember_app_icon=0x7f02008f;
     }
     public static final class id {
         public static final int action0=0x7f0f00eb;
@@ -4251,6 +4252,7 @@ containing a value of this type.
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
+        public static final int woonmember_app_icon=0x7f030001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f080000;

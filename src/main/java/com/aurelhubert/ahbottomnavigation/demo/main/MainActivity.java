@@ -8,14 +8,26 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
+import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.View;
 
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigation;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationAdapter;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationItem;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationViewPager;
 import com.aurelhubert.ahbottomnavigation.demo.R;
+import com.mikepenz.materialdrawer.Drawer;
+import com.mikepenz.materialdrawer.DrawerBuilder;
+import com.mikepenz.materialdrawer.model.DividerDrawerItem;
+import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
+import com.mikepenz.materialdrawer.model.SecondaryDrawerItem;
+import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
 
 import java.util.ArrayList;
+
+import static com.aurelhubert.ahbottomnavigation.R.styleable.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -42,12 +54,14 @@ public class MainActivity extends AppCompatActivity {
 		initUI();
 	}
 
+
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
 		handler.removeCallbacksAndMessages(null);
 	}
-	
+
+
 	/**
 	 * Init UI
 	 */
@@ -90,7 +104,47 @@ public class MainActivity extends AppCompatActivity {
 		currentFragment = adapter.getCurrentFragment();
 
 
+		// Actionbar 에다가 아이콘 넣기
+		getSupportActionBar().setDisplayShowHomeEnabled(true);
+		getSupportActionBar().setIcon(R.drawable.ic_menu_50);
+
+
+
+		// Navigation Drawer (슬라이드 메뉴) 를 추가해주자 (라이브러리 이용)
+		addNavigationDrawer();
+
+
 	} // End of initUI()
 
+
+	public void addNavigationDrawer() {
+		//if you want to update the items at a later time it is recommended to keep it in a variable
+		PrimaryDrawerItem item1 = new PrimaryDrawerItem().withIdentifier(1).withName("item1").withSelectable(false);
+		SecondaryDrawerItem item2 = new SecondaryDrawerItem().withIdentifier(2).withName("item2");
+
+		//create the drawer and remember the `Drawer` result object
+		Drawer drawerResult = new DrawerBuilder()
+				.withActivity(this)
+				.withTranslucentStatusBar(false)
+				.withActionBarDrawerToggle(false)
+				.withActionBarDrawerToggleAnimated(true)
+				.addDrawerItems(
+						item1,
+						new DividerDrawerItem(),
+						item2,
+						new SecondaryDrawerItem().withName("dd")
+				)
+				.withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
+					@Override
+					public boolean onItemClick(android.view.View view, int i, IDrawerItem iDrawerItem) {
+						// do something with the clicked item :D
+						return false;
+					}
+
+				})
+				.build();
+
+
+	}
 
 }

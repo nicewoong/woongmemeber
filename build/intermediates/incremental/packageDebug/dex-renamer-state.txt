@@ -1,4 +1,4 @@
-#Sat Oct 28 21:12:56 KST 2017
+#Sat Oct 28 21:25:37 KST 2017
 base.0=/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

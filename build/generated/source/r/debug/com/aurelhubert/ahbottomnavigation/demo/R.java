@@ -3910,7 +3910,6 @@ containing a value of this type.
         public static final int customPanel=0x7f0f006f;
         public static final int decor_content_parent=0x7f0f007d;
         public static final int default_activity_button=0x7f0f0062;
-        public static final int delete=0x7f0f0109;
         public static final int design_bottom_sheet=0x7f0f00a3;
         public static final int design_menu_item_action_area=0x7f0f00aa;
         public static final int design_menu_item_action_area_stub=0x7f0f00a9;
@@ -4247,9 +4246,8 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f040072;
     }
     public static final class menu {
-        public static final int actionbar_menu=0x7f100000;
-        public static final int bottom_navigation_menu_3=0x7f100001;
-        public static final int bottom_navigation_menu_5=0x7f100002;
+        public static final int bottom_navigation_menu_3=0x7f100000;
+        public static final int bottom_navigation_menu_5=0x7f100001;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

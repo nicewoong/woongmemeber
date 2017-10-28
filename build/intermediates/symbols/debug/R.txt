@@ -1376,7 +1376,6 @@ int id custom 0x7f0f0070
 int id customPanel 0x7f0f006f
 int id decor_content_parent 0x7f0f007d
 int id default_activity_button 0x7f0f0062
-int id delete 0x7f0f0109
 int id design_bottom_sheet 0x7f0f00a3
 int id design_menu_item_action_area 0x7f0f00aa
 int id design_menu_item_action_area_stub 0x7f0f00a9
@@ -1707,9 +1706,8 @@ int layout select_dialog_singlechoice_material 0x7f04006f
 int layout style_dialog_header_icon 0x7f040070
 int layout style_dialog_header_title 0x7f040071
 int layout support_simple_spinner_dropdown_item 0x7f040072
-int menu actionbar_menu 0x7f100000
-int menu bottom_navigation_menu_3 0x7f100001
-int menu bottom_navigation_menu_5 0x7f100002
+int menu bottom_navigation_menu_3 0x7f100000
+int menu bottom_navigation_menu_5 0x7f100001
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f080000
 int string abc_action_bar_home_description_format 0x7f080001

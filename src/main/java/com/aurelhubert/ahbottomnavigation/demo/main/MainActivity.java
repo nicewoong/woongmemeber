@@ -109,7 +109,6 @@ public class MainActivity extends AppCompatActivity {
 		getSupportActionBar().setIcon(R.drawable.ic_menu_50);
 
 
-
 		// Navigation Drawer (슬라이드 메뉴) 를 추가해주자 (라이브러리 이용)
 		addNavigationDrawer();
 
@@ -117,6 +116,9 @@ public class MainActivity extends AppCompatActivity {
 	} // End of initUI()
 
 
+	/**
+	 * navigation drawer 를 생성한다
+	 */
 	public void addNavigationDrawer() {
 		//if you want to update the items at a later time it is recommended to keep it in a variable
 		PrimaryDrawerItem item1 = new PrimaryDrawerItem().withIdentifier(1).withName("item1").withSelectable(false);
@@ -130,9 +132,27 @@ public class MainActivity extends AppCompatActivity {
 				.withActionBarDrawerToggleAnimated(true)
 				.addDrawerItems(
 						item1,
-						new DividerDrawerItem(),
-						item2,
-						new SecondaryDrawerItem().withName("dd")
+						new DividerDrawerItem().withEnabled(true),
+						new PrimaryDrawerItem().withName("선물하기"),
+						new DividerDrawerItem().withEnabled(true), // 이건 구분선
+						new PrimaryDrawerItem().withName("스캔대행 신청"),
+						new PrimaryDrawerItem().withName("연락처 지인찾기"),
+						new PrimaryDrawerItem().withName("명함 교환방"),
+						new DividerDrawerItem().withEnabled(true), // 이건 구분선
+						new PrimaryDrawerItem().withName("대기 중인 명함"),
+						new PrimaryDrawerItem().withName("보류된 명함"),
+						new DividerDrawerItem().withEnabled(true), // 이건 구분선
+						new PrimaryDrawerItem().withName("파일로 보내기"),
+						new PrimaryDrawerItem().withName("구글 주소록에 자동 저장"),
+						new DividerDrawerItem().withEnabled(true), // 이건 구분선
+						new PrimaryDrawerItem().withName("지인에게 추천하기"),
+						new PrimaryDrawerItem().withName("공지사항"),
+						new PrimaryDrawerItem().withName("FAQ"),
+						new PrimaryDrawerItem().withName("문의하기"),
+						new PrimaryDrawerItem().withName("설정")
+
+
+
 				)
 				.withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
 					@Override

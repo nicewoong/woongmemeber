@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/my_profile_6.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/my_profile_6.png"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/my_profile_3.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/my_profile_3.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_maps_local_attraction.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/ic_maps_local_attraction.png"
     },
@@ -16,11 +24,27 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/ic_maps_local_bar.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/my_profile_1.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/my_profile_1.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_maps_local_restaurant.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/ic_maps_local_restaurant.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/my_profile_4.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/my_profile_4.png"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/my_profile_5.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/my_profile_5.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_content_add.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/ic_content_add.png"
+    },
+    {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/my_profile_2.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/my_profile_2.png"
     }
 ]

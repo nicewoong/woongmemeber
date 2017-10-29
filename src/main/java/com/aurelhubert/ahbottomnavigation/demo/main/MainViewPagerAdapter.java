@@ -5,6 +5,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.view.ViewGroup;
 
+import com.aurelhubert.ahbottomnavigation.demo.MyProfileFragment;
 import com.aurelhubert.ahbottomnavigation.demo.group.GroupFragment;
 import com.aurelhubert.ahbottomnavigation.demo.mainlist.MainListFragment;
 import com.aurelhubert.ahbottomnavigation.demo.message.MessageFragment;
@@ -28,7 +29,7 @@ public class MainViewPagerAdapter extends FragmentPagerAdapter {
 		fragments.add(GroupFragment.newInstance()); // 1번 index 탭에 들어갈 프래그먼트 (Group 프래그먼트)
 		fragments.add(MessageFragment.newInstance()); // 2번 index 탭에 들어갈 프래그먼트  (message 프래그먼트)
 		fragments.add(LoungeFragment.newInstance(3));
-		fragments.add(LoungeFragment.newInstance(4));
+		fragments.add(MyProfileFragment.newInstance());
 	}
 
 	@Override

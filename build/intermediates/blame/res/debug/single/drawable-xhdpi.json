@@ -4,6 +4,10 @@
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/ic_maps_local_attraction.png"
     },
     {
+        "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/group_screen.png",
+        "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/group_screen.png"
+    },
+    {
         "merged": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_maps_place.png",
         "source": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/drawable-xhdpi/ic_maps_place.png"
     },

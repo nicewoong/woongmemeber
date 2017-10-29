@@ -9,15 +9,83 @@
     <android.support.v7.widget.CardView
         android:id="@+id/card_view"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:layout_margin="8dp">
+        android:layout_height="340dp"
+        android:layout_margin="8dp"
+        android:padding="10dp">
 
-        <TextView
-            android:id="@+id/layout_item_demo_title"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:textSize="18sp"/>
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1.2"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="5dp"
+                    android:layout_marginTop="5dp"
+                    android:src="@drawable/woonmember_app_icon"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"
+                    android:text="웅멤버"/>
+
+
+            </LinearLayout>
+
+            <!-- 샘플 장문 메시지 -->
+            <TextView
+                android:id="@+id/sample_message"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="5"
+                android:text="@string/lounge_sample_message"
+                android:nestedScrollingEnabled="true"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:textSize="15sp"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:paddingTop="5dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="@color/colorPrimary"
+                android:text="인맥 라운지 더 알아보기"/>
+
+        </LinearLayout>
+
+
+        <!-- 안 보이는 텍스트뷰 샘플 데이터 갯수만큼 적용되도록 테스트 용도이다-->
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/layout_item_demo_title"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:text="@string/lounge_sample_message"
+            android:nestedScrollingEnabled="true"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15sp"/>
+
 
     </android.support.v7.widget.CardView>
 

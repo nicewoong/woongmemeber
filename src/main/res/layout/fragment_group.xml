@@ -5,9 +5,9 @@
     tools:context="com.aurelhubert.ahbottomnavigation.demo.group.GroupFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="fragment_group 입니다" />
+        android:src="@drawable/group_screen"/>
 
 </FrameLayout>

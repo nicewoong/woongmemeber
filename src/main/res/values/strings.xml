@@ -12,7 +12,19 @@
     <string name="menu_4">인맥 라운지</string>
     <string name="menu_5">내 명함</string>
 
+
+    <string name="lounge_sample_message">"[개인정보보호 및 보안관리 안내]
+첫째, 리멤버는 개인정보를 도용/악용하지 않습니다.
+리멤버에 저장된 명함 정보들은 서버에 안전하게 보관되고 있으며 누구도 임의로 접근할 수 없으니 안심하고 사용하셔도 좋습니다.
+
+둘째, 리멤버는 입력 보안 사고로부터 안전합니다.
+리멤버의 전문 타이피스트는 자체 모니터링 시스템으로 항시 관리되며, 명함 이미지를 정보 단위로 분할하여 별도로 입력한 후 자동 병합하는 방식이 적용된 입력 보안 시스템을 운영하고 있습니다. "
+</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
 
 </resources>

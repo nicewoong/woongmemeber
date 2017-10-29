@@ -929,7 +929,14 @@
                     "endOffset": 5643
                 },
                 "from": {
-                    "file": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/values/colors.xml"
+                    "file": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
                 }
             },
             {
@@ -10762,15 +10769,7 @@
                     "endOffset": 91175
                 },
                 "from": {
-                    "file": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 473,
-                        "endLine": 21,
-                        "endColumn": 9,
-                        "endOffset": 775
-                    }
+                    "file": "/Users/woongbook/AndroidStudioProjects/woongmember/demo/src/main/res/values/strings.xml"
                 }
             },
             {
